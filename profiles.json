@@ -1,0 +1,214 @@
+{
+  "alice": {
+    "user_id": "alice",
+    "username": "alice123",
+    "xp": 118,
+    "streak_days": 1,
+    "last_date": "2026-03-20",
+    "total_submissions": 4,
+    "total_issues_fixed": 12,
+    "badges": [
+      "first_blood"
+    ],
+    "history": [
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 40,
+        "mistakes": 3,
+        "issues": 3
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 20,
+        "mistakes": 3,
+        "issues": 3
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 60,
+        "mistakes": 3,
+        "issues": 3
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 60,
+        "mistakes": 3,
+        "issues": 3
+      }
+    ],
+    "langs_used": [
+      "Python"
+    ]
+  },
+  "chaithanya": {
+    "user_id": "chaithanya",
+    "username": "chaithanya123",
+    "xp": 187,
+    "streak_days": 1,
+    "last_date": "2026-03-20",
+    "total_submissions": 8,
+    "total_issues_fixed": 27,
+    "badges": [
+      "bug_slayer",
+      "first_blood"
+    ],
+    "history": [
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 60,
+        "mistakes": 3,
+        "issues": 3
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 60,
+        "mistakes": 3,
+        "issues": 3
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 60,
+        "mistakes": 3,
+        "issues": 3
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 20,
+        "mistakes": 2,
+        "issues": 2
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 20,
+        "mistakes": 4,
+        "issues": 4
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 20,
+        "mistakes": 4,
+        "issues": 4
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 20,
+        "mistakes": 4,
+        "issues": 4
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 40,
+        "mistakes": 4,
+        "issues": 4
+      }
+    ],
+    "langs_used": [
+      "Python"
+    ]
+  },
+  "js_student": {
+    "user_id": "js_student",
+    "username": "JS Dev",
+    "xp": 37,
+    "streak_days": 1,
+    "last_date": "2026-03-20",
+    "total_submissions": 1,
+    "total_issues_fixed": 3,
+    "badges": [
+      "first_blood"
+    ],
+    "history": [
+      {
+        "date": "2026-03-20",
+        "lang": "JavaScript",
+        "score": 20,
+        "mistakes": 2,
+        "issues": 3
+      }
+    ],
+    "langs_used": [
+      "JavaScript"
+    ]
+  },
+  "demo_user": {
+    "user_id": "demo_user",
+    "username": "Demo Student",
+    "xp": 68,
+    "streak_days": 1,
+    "last_date": "2026-03-20",
+    "total_submissions": 3,
+    "total_issues_fixed": 11,
+    "badges": [
+      "first_blood"
+    ],
+    "history": [
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 20,
+        "mistakes": 4,
+        "issues": 4
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 20,
+        "mistakes": 4,
+        "issues": 4
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "Python",
+        "score": 20,
+        "mistakes": 3,
+        "issues": 3
+      }
+    ],
+    "langs_used": [
+      "Python"
+    ]
+  },
+  "cpp_student": {
+    "user_id": "cpp_student",
+    "username": "C++ Coder",
+    "xp": 51,
+    "streak_days": 1,
+    "last_date": "2026-03-20",
+    "total_submissions": 2,
+    "total_issues_fixed": 10,
+    "badges": [
+      "first_blood"
+    ],
+    "history": [
+      {
+        "date": "2026-03-20",
+        "lang": "C++",
+        "score": 20,
+        "mistakes": 5,
+        "issues": 5
+      },
+      {
+        "date": "2026-03-20",
+        "lang": "C++",
+        "score": 20,
+        "mistakes": 4,
+        "issues": 5
+      }
+    ],
+    "langs_used": [
+      "C++"
+    ]
+  }
+}

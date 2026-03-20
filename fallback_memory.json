@@ -1,0 +1,22 @@
+{
+  "student-alice": [
+    "Student mistake: OffByOne: range(1, len(data) + 1) instead of range(len(data)). Problem: Create a function that prints every element in a list.. Date: 2026-03-20.",
+    "OffByOne: range(1, len(data) + 1) instead of range(len(data))",
+    "Student mistake: BadPractice: using indices instead of directly iterating over the list. Problem: Create a function that prints every element in a list.. Date: 2026-03-20.",
+    "BadPractice: using indices instead of directly iterating over the list",
+    "Student mistake: Performance: using len(data) + 1 in range function. Problem: Create a function that prints every element in a list.. Date: 2026-03-20.",
+    "Performance: using len(data) + 1 in range function",
+    "Student mistake: LogicError. Problem: Create a function that adds an item to a list. If no list is provided, create a new one.. Date: 2026-03-20.",
+    "LogicError",
+    "Student mistake: BadPractice. Problem: Create a function that adds an item to a list. If no list is provided, create a new one.. Date: 2026-03-20.",
+    "BadPractice",
+    "Student mistake: BadStyle. Problem: Create a function that adds an item to a list. If no list is provided, create a new one.. Date: 2026-03-20.",
+    "BadStyle",
+    "Student mistake: LogicError: floating-point precision issue. Problem: Check if three small payments equal a total of 0.3.. Date: 2026-03-20.",
+    "LogicError: floating-point precision issue",
+    "Student mistake: BadPractice: poorly named function. Problem: Check if three small payments equal a total of 0.3.. Date: 2026-03-20.",
+    "BadPractice: poorly named function",
+    "Student mistake: Performance: inefficient calculation. Problem: Check if three small payments equal a total of 0.3.. Date: 2026-03-20.",
+    "Performance: inefficient calculation"
+  ]
+}
